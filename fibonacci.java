@@ -1,4 +1,4 @@
-package prepinsta100codes;
+
 
 import java.util.Scanner;
 
