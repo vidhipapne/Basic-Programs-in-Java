@@ -1,0 +1,6 @@
+    public class LongToStr{  
+    public static void main(String args[]){  
+    long r=1295649389L;  
+    String str =String.valueOf(r);  
+    System.out.println(str);  
+    }}  
