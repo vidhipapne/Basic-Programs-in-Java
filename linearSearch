@@ -1,0 +1,15 @@
+    public class Search{    
+    public static int lSearch(int[] a, int k){    
+            for(int i=0;i<a.length;i++){    
+                if(a[i] == k){    
+                    return i;    
+                }    
+            }    
+            return -1;    
+        }    
+        public static void main(String a[]){    
+            int[] b= {1,2,3,4,5};    
+            int k = 5;    
+            System.out.println(key+" is found at index: "+lSearch(b, k));    
+        }    
+    }    
